@@ -10,10 +10,9 @@ f=1
 # store number in temporary variable
 temp=$num
 
-while [ "$num" -gt 0 ]
+while [ "$num" -gt 0 ]; do
 #      ^            ^
 # Spaces, because these are "test-brackets" . . .
-do
 	# logic to calculate factorial
 	f=$[num*f]
   	num=$[num-1]
