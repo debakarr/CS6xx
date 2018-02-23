@@ -19,7 +19,7 @@
 	* [Simple calculator](https://github.com/Dibakarroy1997/CS6xx/blob/master/%5BCS693%5D%20Operating%20System/Day_3_3_calculator.sh)
 
 * Day 4
-	* [Addition of two numbers (Using function)]https://github.com/Dibakarroy1997/CS6xx/blob/master/%5BCS693%5D%20Operating%20System/Day_4_1_1_addNumbers.sh)
+	* [Addition of two numbers (Using function)](https://github.com/Dibakarroy1997/CS6xx/blob/master/%5BCS693%5D%20Operating%20System/Day_4_1_1_addNumbers.sh)
 	* [Factorial of a number (Using function)](https://github.com/Dibakarroy1997/CS6xx/blob/master/%5BCS693%5D%20Operating%20System/Day_4_1_2_factorial.sh)
 	* [Prime or not (Using function)](https://github.com/Dibakarroy1997/CS6xx/blob/master/%5BCS693%5D%20Operating%20System/Day_4_1_3_prime.sh)
 	* [Fibonacci Series (Using function)](https://github.com/Dibakarroy1997/CS6xx/blob/master/%5BCS693%5D%20Operating%20System/Day_4_1_4_fibonacci.sh)
