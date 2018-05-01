@@ -4,12 +4,12 @@
 #include<stdlib.h>
 #include<string.h>
 
-int main(void) {
+int main() {
   int fd[2];
   pid_t pid;
   char buf[80];
 
-  pipe(fd);
+  //pipe(fd);
 
   if (pipe(fd) == -1) {
                perror("pipe");
