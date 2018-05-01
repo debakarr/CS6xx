@@ -39,3 +39,10 @@ int main(void) {
 
   return (0);
 }
+
+/*
+
+Output:
+
+Parent recieved string: Hello from Child!
+*/
