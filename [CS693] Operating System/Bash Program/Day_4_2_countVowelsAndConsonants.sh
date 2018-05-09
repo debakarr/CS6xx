@@ -7,5 +7,5 @@ read line
 printf "Number of vowels: "
 echo `echo $line  | grep -oi "[aeiou]" | wc -l`
 
-printf "Number of vowels: "
+printf "Number of consonants: "
 echo `echo $line  | grep -oi "[b-df-hj-np-tv-z]" | wc -l`
