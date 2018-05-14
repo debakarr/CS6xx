@@ -67,4 +67,10 @@
 
 ***
 
+#### Computer Networks
+
+***
+
+* **Upto Day 5** [Link to PDF](https://github.com/Dibakarroy1997/CS6xx/blob/master/%5BCS691%5D%20Database%20Management%20System/DBMS%20LAB%20Upto%20Day%205.pdf)
+
 **P.S.**: As always pull request are always welcome.
