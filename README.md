@@ -6,6 +6,11 @@
 
 ***
 
+**NOTE**: 	You can view Subham Sarda's Operating System LAB repo **[here](https://github.com/Shubh96/CSE_Sem_6)**.
+			Also you can view Shubham Dey's Operating System LAB repo **[here](https://github.com/ShubhamDey/OS-6th-Sem-Programs)**.
+
+***
+
 * Day 2
 
 	* [Addition of two numbers](https://github.com/Dibakarroy1997/CS6xx/blob/master/%5BCS693%5D%20Operating%20System/Bash%20Program/Day_2_1_addNumbers.sh)
@@ -47,7 +52,8 @@
 
 ***
 
-**NOTE**: You can view Sandeep's Network LAB repo **[here](https://github.com/sandyjswl/CS-692)**.
+**NOTE**: 	You can view Sandeep's Network LAB repo **[here](https://github.com/sandyjswl/CS-692)**.
+			Also you can view Subham Sarda's Network LAB repo **[here](https://github.com/Shubh96/CSE_Sem_6)**.
 
 ***
 
@@ -68,6 +74,10 @@
 ***
 
 #### Computer Networks
+
+***
+
+**NOTE**: 	You can view Subham Sarda's DBMS LAB repo **[here](https://github.com/Shubh96/CSE_Sem_6)**.
 
 ***
 
